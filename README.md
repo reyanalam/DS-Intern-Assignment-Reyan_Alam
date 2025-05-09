@@ -1,5 +1,11 @@
 # Smart Factory Energy Prediction Challenge
 
+# Instruction to run
+
+```bash
+pip install -r requirements.txt
+python training.py
+```
 ## Problem Overview
 
 You've been hired as a data scientist for SmartManufacture Inc., a leading industrial automation company. The company has deployed an extensive sensor network throughout one of their client's manufacturing facilities to monitor environmental conditions and energy usage.
